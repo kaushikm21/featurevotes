@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Feature 1",
+    "votes": 4
+  },
+  {
+    "id": 2,
+    "name": "Feature 2",
+    "votes": 4
+  },
+  {
+    "id": 3,
+    "name": "Feature 3",
+    "votes": 3
+  },
+  {
+    "id": 4,
+    "name": "Feature 4",
+    "votes": 4
+  },
+  {
+    "id": 5,
+    "name": "Feature 5",
+    "votes": 4
+  }
+]
